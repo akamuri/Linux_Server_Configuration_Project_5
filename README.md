@@ -12,11 +12,11 @@
 
 ## Setup Instructions
 1. The server info is :
-  - IP address : 52.25.206.249
+  - IP address : 52.27.102.4
   - ssh port : 2200
 2. Connect to sever using the following command :
-  - ssh -i ~/.ssh/udacity_key.rsa root@52.25.206.249 -p 2200
-3. Complete URL is : http://ec2-52-25-206-249.us-west-2.compute.amazonaws.com/
+  - ssh -i ~/.ssh/udacity_key.rsa grader@52.27.102.4 -p 2200
+3. Complete URL is : http://ec2-52-27-102-4.us-west-2.compute.amazonaws.com/
 
 ## Summary of software installed 
 root@ip-10-20-55-1:~# history | grep "install" 
